@@ -14,5 +14,5 @@ Source : https://www.kaggle.com/c/digit-recognizer
 
 #Evaluations
 <h3>Random Forest</h3>
-(number of trees = 25)
+(number of trees = 25)<br/>
 Accuracy = 0.93629
