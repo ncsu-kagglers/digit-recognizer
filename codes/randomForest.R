@@ -25,4 +25,4 @@ rf <- randomForest(train, labels, xtest=test, ntree=numTrees)
 predictions <- data.frame(ImageId=1:nrow(test), Label=levels(labels)[rf$test$predicted])
 head(predictions)
 
-write_csv(predictions, "RandomForst_output.csv") 
+write_csv(predictions, "RandomForest_output.csv") 
