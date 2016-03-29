@@ -3,8 +3,6 @@
 
 Classify handwritten digits using the famous MNIST data
 
-Get started on this competition through Kaggle Scripts
-
 The goal in this competition is to take an image of a handwritten single digit, and determine what that digit is.  As the competition progresses, we will release tutorials which explain different machine learning algorithms and help you to get started.
 
 
