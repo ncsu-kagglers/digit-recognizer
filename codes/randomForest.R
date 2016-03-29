@@ -5,8 +5,8 @@ library(randomForest)
 
 # The competition datafiles are in the directory ../input
 # Read competition data files:
-train <- read.csv("~/GitHub/digit-recognizer/input/train.csv", stringsAsFactors=FALSE) 
-test <- read.csv("~/GitHub/digit-recognizer/input/test.csv", stringsAsFactors=FALSE) 
+train <- read.csv("../input/train.csv", stringsAsFactors=FALSE) 
+test <- read.csv("../input/test.csv", stringsAsFactors=FALSE) 
 
 # Write to the log:
 cat(sprintf("Training set has %d rows and %d columns\n", nrow(train), ncol(train)))
