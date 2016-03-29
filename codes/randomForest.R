@@ -1,4 +1,4 @@
-# You can write R code here and then click "Run" to run it on our platform
+# Performance evaluation on Random Forest
 
 library(readr)
 library(randomForest)
@@ -11,9 +11,7 @@ test <- read.csv("~/GitHub/digit-recognizer/input/test.csv", stringsAsFactors=FA
 # Write to the log:
 cat(sprintf("Training set has %d rows and %d columns\n", nrow(train), ncol(train)))
 cat(sprintf("Test set has %d rows and %d columns\n", nrow(test), ncol(test)))
-
-# Generate output files with write_csv(), plot() or ggplot()
-# Any files you write to the current directory get shown as outputs
+ 
 set.seed(0)
 
 numTrain <- 10000
