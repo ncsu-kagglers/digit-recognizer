@@ -13,6 +13,6 @@ The data for this competition were taken from the MNIST dataset. The MNIST ("Mod
 Source : https://www.kaggle.com/c/digit-recognizer
 
 #Evaluations
-<h2>Random Forest</h2>
+<h3>Random Forest</h3>
 (number of trees = 25)
 Accuracy = 0.93629
