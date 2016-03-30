@@ -22,6 +22,7 @@ Currently all the 28x28 = 756 pixels are used as it is as the feature set for tr
 Things to try:
 
 1. End-point distribution. <a href="https://www.kaggle.com/c/digit-recognizer/prospector#72" target="_blank">Link</a>. <a href="https://www.kaggle.com/rajatshah/digit-recognizer/end-point-distribution/">Forked Working Code</a>.
+2. Various properties of pixels: <a href="https://www.kaggle.com/c/digit-recognizer/prospector#73">Link</a>.
 
 #Evaluations
 <h3>Random Forest</h3>
