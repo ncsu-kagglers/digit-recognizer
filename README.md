@@ -11,8 +11,12 @@ The data for this competition were taken from the MNIST dataset. The MNIST ("Mod
 Source : https://www.kaggle.com/c/digit-recognizer
 
 #Exploration
-This is what a sample digit on gray scale looks like in the dataset:
+This is what a sample digit on gray scale looks like in the dataset:<br/>
 <center><img src = "output/sample_digit_0.png" height="300px" width="300px"></center>
+
+Average of each digit in the data set:<br/>
+<center><img src = "output/sample_digit_0.png" height="900px" width="900px"></center>
+
 
 #Evaluations
 <h3>Random Forest</h3>
