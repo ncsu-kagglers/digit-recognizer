@@ -21,7 +21,7 @@ Average of each digit in the data set:<br/>
 Currently all the 28x28 = 756 pixels are used as it is as the feature set for trainin.<br/>
 Things to try:
 
-1. End-point distribution <a href="https://www.kaggle.com/rajatshah/digit-recognizer/end-point-distribution/edit" target="_blank">Link</a>
+1. End-point distribution <a href="https://www.kaggle.com/c/digit-recognizer/prospector#72" target="_blank">Link</a>
 
 #Evaluations
 <h3>Random Forest</h3>
