@@ -15,7 +15,7 @@ This is what a sample digit on gray scale looks like in the dataset:<br/>
 <center><img src = "output/sample_digit_0.png" height="250px" width="250px"></center>
 
 Average of each digit in the data set:<br/>
-<center><img src = "output/avg_digit.png" height="700px" width="700px"></center>
+<center><img src = "output/avg_digit.png" height="600px" width="600px"></center>
 
 #Feature Selection
 Currently all the 28x28 = 756 pixels are used as it is as the feature set for training.<br/>
