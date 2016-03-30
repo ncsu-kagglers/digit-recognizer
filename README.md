@@ -18,7 +18,7 @@ Average of each digit in the data set:<br/>
 <center><img src = "output/avg_digit.png" height="700px" width="700px"></center>
 
 #Feature Selection
-Currently all the 28x28 = 756 pixels are used as it is as the feature set for trainin.<br/>
+Currently all the 28x28 = 756 pixels are used as it is as the feature set for training.<br/>
 Things to try:
 
 1. End-point distribution <a href="https://www.kaggle.com/c/digit-recognizer/prospector#72" target="_blank">Link</a>
