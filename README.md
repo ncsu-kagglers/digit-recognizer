@@ -15,7 +15,7 @@ This is what a sample digit on gray scale looks like in the dataset:<br/>
 <center><img src = "output/sample_digit_0.png" height="300px" width="300px"></center>
 
 Average of each digit in the data set:<br/>
-<center><img src = "output/avg_digit.png" height="900px" width="900px"></center>
+<center><img src = "output/avg_digit.png" height="700px" width="700px"></center>
 
 
 #Evaluations
