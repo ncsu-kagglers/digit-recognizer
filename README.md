@@ -12,7 +12,7 @@ Source : https://www.kaggle.com/c/digit-recognizer
 
 #Exploration
 This is what a sample digit on gray scale looks like in the dataset:
-<img src = "output/sample_digit_0.png">
+<img src = "output/sample_digit_0.png" height="100px" width="100px">
 
 #Evaluations
 <h3>Random Forest</h3>
