@@ -10,6 +10,10 @@ The data for this competition were taken from the MNIST dataset. The MNIST ("Mod
 
 Source : https://www.kaggle.com/c/digit-recognizer
 
+#Exploration
+This is what a sample digit on gray scale looks like in the dataset:
+<img src = "output/sample_digit_0.png">
+
 #Evaluations
 <h3>Random Forest</h3>
 (number of trees = 25)<br/>
